@@ -1,0 +1,77 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4549331142,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.before()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "user is on landing page",
+        "description": "",
+        "id": "user-is-on-landing-page;user-is-on-landing-page",
+        "after": [
+          {
+            "result": {
+              "duration": 140287109,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.after(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 13692646,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "page title is \"Selenium: Beginners Guide\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Selenium: Beginners Guide\"",
+                  "offset": 14
+                }
+              ],
+              "location": "First.pageTitleIs(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@main"
+          }
+        ]
+      }
+    ],
+    "name": "user is on landing page",
+    "description": "",
+    "id": "user-is-on-landing-page",
+    "keyword": "Feature",
+    "uri": "src/test/resources/DummyScenarios/main.feature",
+    "tags": [
+      {
+        "name": "@main",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

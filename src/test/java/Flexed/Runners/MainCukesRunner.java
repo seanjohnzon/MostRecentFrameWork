@@ -1,0 +1,19 @@
+package Flexed.Runners;
+
+import cucumber.api.CucumberOptions;
+import cucumber.api.junit.Cucumber;
+import org.junit.runner.RunWith;
+
+@RunWith(Cucumber.class)
+@CucumberOptions(
+        tags = {"@main"},
+        plugin = {"pretty",
+                "html:target/cucumber-report",
+                "json:target/cucmber.json"},
+        features = {"src/test/resources/DummyScenarios"},
+        glue = {"Flexed/Step_Definitions"},
+        dryRun = false
+)
+
+public class MainCukesRunner {
+}

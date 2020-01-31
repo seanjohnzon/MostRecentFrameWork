@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8bf793e-e753-40f3-acc6-20891a547e2c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/git" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WGa4ZSlorADJcdOVa9M85xdsvx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainCukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MostRecentFrameWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Flexed.Runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Flexed.Runners" />
+      <option name="MAIN_CLASS_NAME" value="Flexed.Runners.MainCukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainCukesRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8bf793e-e753-40f3-acc6-20891a547e2c" name="Default Changelist" comment="" />
+      <created>1578778194402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578778194402</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Plugins" timestamp="1578780466221">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Plugins/0.0.1440.900@0.0.1440.900" timestamp="1578780466221" />
+    <state x="412" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578780360695">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="412" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1578780360695" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578792355918">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1578792355918" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1579233964250">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579233964250" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1579233964246">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579233964246" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1579233964242">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579233964242" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1579233964248">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579233964248" />
+    <state x="399" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1580439848349">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1579738189305" />
+    <state x="399" y="281" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1580439848349" />
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1580143791036" />
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1579480414359" />
+    <state x="477" y="378" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1578788867440">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="477" y="378" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1578788867440" />
+    <state x="226" y="100" width="670" height="672" key="search.everywhere.popup" timestamp="1580443902412">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="226" y="100" width="670" height="672" key="search.everywhere.popup/0.23.1440.825@0.23.1440.825" timestamp="1580443902412" />
+    <state x="226" y="100" width="670" height="676" key="search.everywhere.popup/0.23.1440.830@0.23.1440.830" timestamp="1579204470736" />
+  </component>
+</project>
